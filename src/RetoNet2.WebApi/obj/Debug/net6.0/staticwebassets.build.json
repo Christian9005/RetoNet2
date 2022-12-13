@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "d1Vx3ezjEeaVORlEZm0HtnDZvnYWEV+tvdBZ4674bD0=",
+  "Source": "RetoNet2.WebApi",
+  "BasePath": "_content/RetoNet2.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
